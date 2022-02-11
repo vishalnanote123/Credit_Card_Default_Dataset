@@ -2,7 +2,7 @@
 
 Kaggle Dataset
 
-                            ![image](https://user-images.githubusercontent.com/77392594/153610003-c9935bca-2cca-46b1-82b1-270e2b9695f9.png)
+   ![image](https://user-images.githubusercontent.com/77392594/153610003-c9935bca-2cca-46b1-82b1-270e2b9695f9.png)
 
 
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
